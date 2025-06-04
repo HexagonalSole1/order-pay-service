@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
         )
 )
 public class SwaggerConfig {
-    // La configuración básica ya está incluida con la anotación
+    // La configuración básica ya está incluida con la anotación deploy
 }
 
 
